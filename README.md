@@ -3,10 +3,6 @@
 ## Introdução do problema
 Fazer a gestão de pessoas é necessária para manter uma empresa funcionando. Conhecer a massa salarial dos funcionários, as contratações e demissões, o número de má contratações e o turnover (rotatividade da empresa) são algumas métricas necessárias para uma boa gestão da empresa tornando-a muito mais produtiva.
 
-**Problema:** Como melhorar a experiência dos funcionários (satisfação dos trabalhadores) na empresa para reter colaboradores.
-
-(fornecimento de benefícios corporativos flexíveis)  
-
 **Objetivo:** Fazer uma análise do setor de recursos humanos de uma empresa e verificar as contratações mais assertivas, maior produtividade, redução de custos, a retenção de talentos, o engajamento e bem-estar dos colaboradores.
 
 **Dataset:** É um conjunto de dados de recursos humanos uma empresa fictícia. Dados foram extraídos do kaggle (https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
